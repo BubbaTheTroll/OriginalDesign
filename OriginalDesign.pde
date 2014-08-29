@@ -1,7 +1,7 @@
 int hairx = 200;
 int hairy = 220;
 int facex = 200;
-int facey = 220;
+int facey = 221;
 
 void setup(){
     size(400,400);
